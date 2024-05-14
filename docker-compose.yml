@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  web:
+    image:nginx
+    port:5050:50
+
+  db:
+    image:nginx
+    port:5050:50
